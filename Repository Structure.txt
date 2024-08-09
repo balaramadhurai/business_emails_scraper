@@ -1,0 +1,7 @@
+google-maps-business-email-fetcher/
+│
+├── README.md
+│
+├── business_emails.py
+│
+└── credentials.json
